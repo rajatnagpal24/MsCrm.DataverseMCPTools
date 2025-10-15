@@ -34,7 +34,7 @@ The Model Context Protocol (MCP) is a standardized protocol for AI assistants an
 
 ### Manual Installation
 
-1. Download the latest release from the [Releases page](https://github.com/rajatnagpal24/MsCrmTools-DataverseMCPTools/releases)
+1. Download the latest release from the [Releases page](https://github.com/rajatnagpal24/MsCrm.DataverseMCPTools/releases)
 2. Extract the ZIP file
 3. Copy the `DataverseMcpTools` folder to your XrmToolBox `Plugins` directory
 4. Restart XrmToolBox
