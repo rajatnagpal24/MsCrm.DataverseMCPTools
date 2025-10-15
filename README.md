@@ -100,9 +100,6 @@ The Model Context Protocol (MCP) is a standardized protocol for AI assistants an
 - ✅ Error handling and user feedback
 
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
@@ -120,9 +117,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-- 🐛 [Report a Bug](https://github.com/rajatnagpal24/MsCrmTools-DataverseMCPTools/issues)
-- 💡 [Request a Feature](https://github.com/rajatnagpal24/MsCrmTools-DataverseMCPTools/issues)
-- 📖 [View Documentation](https://github.com/rajatnagpal24/MsCrmTools-DataverseMCPTools/wiki)
+- 🐛 [Report a Bug](https://github.com/rajatnagpal24/MsCrm.DataverseMCPTools/issues)
+- 💡 [Request a Feature](https://github.com/rajatnagpal24/MsCrm.DataverseMCPTools/issues)
+- 📖 [View Documentation](https://github.com/rajatnagpal24/MsCrm.DataverseMCPTools/wiki)
 
 
 ---
