@@ -91,6 +91,11 @@ The Model Context Protocol (MCP) is a standardized protocol for AI assistants an
 
 ## 📝 Changelog
 
+
+- ### Version 1.0.6
+- ✅ Added support for Raw JSON-RPC mode.
+- ✅ UI Optimizations
+
 ### Version 1.0.4.0 (Initial Release)
 - ✅ List available MCP tools from Dataverse
 - ✅ Execute MCP tools with custom parameters
